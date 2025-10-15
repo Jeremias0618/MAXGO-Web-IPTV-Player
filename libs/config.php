@@ -2,7 +2,7 @@
 
 
 // URL DNS
-define('IP','http://maxgo.pro'); 
+define('IP','http://IP'); 
 
 //pink, aqua, orange or blue themes
 $template = 'blue'; 
